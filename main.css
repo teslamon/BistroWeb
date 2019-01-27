@@ -28,6 +28,13 @@ body {
 }
 
 
+.navbar ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+
 /* Style der Links in der Navbar */
 .navbar a {
     float: left;
@@ -144,4 +151,4 @@ body {
     }
   }
 
-  
+ 
